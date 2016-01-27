@@ -1,3 +1,5 @@
+# ng2-interfaces
+
 Welcome to the ng2-interfaces wiki!
 
 ## How do I use interfaces better on typescript with ng2?
